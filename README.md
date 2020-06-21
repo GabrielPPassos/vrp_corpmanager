@@ -15,6 +15,7 @@
 
 # Como Usar
 - /contratar corp id
+- /demitir corp id
 
 # Configuração
 - O script possui uma configuração beeem simples, abra o server.lua e já vai se deparar com uma aba de Configuração.
