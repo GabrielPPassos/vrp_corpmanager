@@ -13,5 +13,8 @@
 - 3° Verifique se os grupos estão de acordo com o seu servidor (server.lua);
 - 5° Abrir o servidor e ser feliz;
 
+# Como Usar
+- /contratar corp id
+
 # Configuração
 - O script possui uma configuração beeem simples, abra o server.lua e já vai se deparar com uma aba de Configuração.
